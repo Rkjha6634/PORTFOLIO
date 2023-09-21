@@ -1,6 +1,6 @@
 # 🗺 Rohit's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. Here are the only top projects on each categrory there are more projects in my repoisitary do check them out 
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. Here are the only top projects  there are more projects in my repositories do check them out 
 
 ## 📚 Table of Contents
 
