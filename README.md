@@ -4,17 +4,32 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 
-- [ResumeProject](#ResumeProject)
+
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
 
 # ResumeProject
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-|[Bank Customer Churn Analysis](https://github.com/Rkjha6634/Bank-Customer-Churn)|  Data analysis, data cleaning  | In this capstone project, I focused on addressing the problem of customer churn within the banking industry.|
-|[Credit Risk Analysis](https://github.com/Rkjha6634/Credit-Risk-Analysis)|  Data analysis, data cleaning   | In this capstone project, I focused on addressing the problem of Credit Rsik .|
-|[Housing price Analysis ](https://github.com/Rkjha6634/HOUSING-DYNAMIC-ANALYSIS)|  Data analysis, data cleaning   | In this capstone project, I focused on  the problem reletated to House Pricing Dynamics|
+
+## Bank Customer Churn Analysis
+
+| Project Link | Area of Analysis | Project Description |
+| --- | --- | --- |
+| [Bank Customer Churn Analysis](https://github.com/Rkjha6634/Bank-Customer-Churn) | Data analysis, data cleaning | In this capstone project, I focused on addressing the problem of customer churn within the banking industry. |
+
+## Credit Risk Analysis
+
+| Project Link | Area of Analysis | Project Description |
+| --- | --- | --- |
+| [Credit Risk Analysis](https://github.com/Rkjha6634/Credit-Risk-Analysis) | Data analysis, data cleaning | In this capstone project, I focused on addressing the problem of Credit Risk. |
+
+## Housing Price Analysis
+
+| Project Link | Area of Analysis | Project Description |
+| --- | --- | --- |
+| [Housing Price Analysis](https://github.com/Rkjha6634/HOUSING-DYNAMIC-ANALYSIS) | Data analysis, data cleaning | In this capstone project, I focused on the problem related to House Pricing Dynamics. |
+
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
