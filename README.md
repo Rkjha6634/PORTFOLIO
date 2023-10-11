@@ -57,7 +57,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|  Pizza sales report|  Data cleaning, data analysis ,KPI's  Using SQL and Tableau Worked on Pizza store data set and analysed key indicators for our pizza sales data and visualize different aspect of data to gain insight and find patterns to help to increase revenue| [Dashboard](https://public.tableau.com/app/profile/rohit.jha2930/viz/Pizzasalesreport/Home) |
+|  Sales report|  Data cleaning, data analysis ,KPI's  Using SQL and Tableau Worked on Pizza store data set and analysed key indicators for our pizza sales data and visualize different aspect of data to gain insight and find patterns to help to increase revenue| [Dashboard](https://public.tableau.com/app/profile/rohit.jha2930/viz/Pizzasalesreport/Home) |
 |HouseSales dashboard |  Data cleaning, data analysis ,KPI's  Using Tableau focuses on analyzing historical house sales data, including information on property attributes, sale prices, location details, and time-based trends. find patterns to help to increase revenue| [Dashboard](https://public.tableau.com/app/profile/rohit.jha2930/viz/KingCountyHouseSalesDashboard_16936492064540/HouseSalesDashboard) |
 |Bank customer segmentation dashboard | explored customer attributes createing visually compelling and interactive dashboards that assist the bank in understanding and categorizing its customers built  dashboard that empowers the bank to deepen customer relationships, optimize marketing efforts, and enhance product recommendations| [Dashboard](https://public.tableau.com/app/profile/rohit.jha2930/viz/BankCustomerSegmentationAnalysis_16936595823170/Dashboard1)|
 
